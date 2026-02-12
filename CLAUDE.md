@@ -11,6 +11,7 @@
 - `.claude/memory/workflow-rules.md` — Core workflow & automation rules
 - `.claude/memory/preferences.md` — User preferences & style (created on discovery, currently empty)
 - `.claude/memory/lessons.md` — Lessons learned per project (created on discovery)
+- `.claude/memory/skill-proposals.md` — Custom skill implementation plan (7 skills, prioritized)
 
 ## Multi-Agent Protocol
 - Write plan file before spawning workers
