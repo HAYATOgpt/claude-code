@@ -9,7 +9,7 @@
 
 ## Memory Files (details)
 - `.claude/memory/workflow-rules.md` — Core workflow & automation rules
-- `.claude/memory/preferences.md` — User preferences & style (created on discovery)
+- `.claude/memory/preferences.md` — User preferences & style (created on discovery, currently empty)
 - `.claude/memory/lessons.md` — Lessons learned per project (created on discovery)
 
 ## Multi-Agent Protocol
