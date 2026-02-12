@@ -145,6 +145,16 @@
       },
       "source": "./plugins/security-guidance",
       "category": "security"
+    },
+    {
+      "name": "business-planner",
+      "description": "AI-driven business planning skill with structured discovery, RIVER evaluation framework, and phased roadmap creation for side businesses and new ventures",
+      "version": "0.1.0",
+      "author": {
+        "name": "HAYATOgpt"
+      },
+      "source": "./plugins/business-planner",
+      "category": "productivity"
     }
   ]
 }
